@@ -1,0 +1,76 @@
+<?xml version ="1.0" encoding ="UTF-8" ?>
+    <REGISTRO>
+        <CLIENTE>
+            <ID>1112790556</ID>
+            <NOMBRE>Andres Camargo</NOMBRE>
+            <DIRECCION>CRA 4 # 13-24</DIRECCION>
+            <EMAIL>andresc@hotmail.com</EMAIL>
+            <SALDOACTUAL>0.00</SALDOACTUAL>
+        </CLIENTE>
+        <CLIENTE>
+            <ID>1193561874</ID>
+            <NOMBRE>Yeisson Castro</NOMBRE>
+            <DIRECCION>CLL 5 # 3-26</DIRECCION>
+            <EMAIL>yeicastro@hotmail.com</EMAIL>
+            <SALDOACTUAL>30,500.00</SALDOACTUAL>
+        </CLIENTE>
+    	 <CLIENTE>
+            <ID>1198547852</ID>
+            <NOMBRE>Oscar Leon</NOMBRE>
+            <DIRECCION>TRANS 5 # 15-26</DIRECCION>
+            <EMAIL>ol852@gmail.com</EMAIL>
+            <SALDOACTUAL>29,100.00</SALDOACTUAL>
+        </CLIENTE>
+        <CLIENTE>
+            <ID>1112696321</ID>
+            <NOMBRE>Ramiro Velez</NOMBRE>
+            <DIRECCION>CRA 8 # 20-59</DIRECCION>
+            <EMAIL>velra@hotmail.com</EMAIL>
+            <SALDOACTUAL>728,700.00</SALDOACTUAL>
+        </CLIENTE>
+        <CLIENTE>
+            <ID>16222569</ID>
+            <NOMBRE>Hernesto Osorio</NOMBRE>
+            <DIRECCION>CRA 1 # 5-17</DIRECCION>
+            <EMAIL>hosorio@hotmail.com</EMAIL>
+            <SALDOACTUAL>5'000,000.00</SALDOACTUAL>
+        </CLIENTE>
+        <CLIENTE>
+            <ID>16222569</ID>
+            <NOMBRE>Carmen Vanegas</NOMBRE>
+            <DIRECCION>CLL 15 # 15-21</DIRECCION>
+            <EMAIL>cvanegas@hotmail.com</EMAIL>
+            <SALDOACTUAL>1,800.00</SALDOACTUAL>
+        </CLIENTE>
+        <CLIENTE>
+            <ID>31569874</ID>
+            <NOMBRE>Maria Vergara</NOMBRE>
+            <DIRECCION>CLL 7 # 8-22</DIRECCION>
+            <EMAIL>mariav@hotmail.com</EMAIL>
+            <SALDOACTUAL>86,200.00</SALDOACTUAL>
+        </CLIENTE>
+        <CLIENTE>
+            <ID>14698523</ID>
+            <NOMBRE>Franci Montoya</NOMBRE>
+            <DIRECCION>CRA 3 # 10-21</DIRECCION>
+            <EMAIL>franci1822@gmail.com</EMAIL>
+            <SALDOACTUAL>529,200.00</SALDOACTUAL>
+        </CLIENTE>
+        <CLIENTE>
+            <ID>14698523</ID>
+            <NOMBRE>Carlos Valencia</NOMBRE>
+            <DIRECCION>AV 30 # 15-105</DIRECCION>
+            <EMAIL>godofwar@gmail.com</EMAIL>
+            <SALDOACTUAL>1'200,000.00</SALDOACTUAL>
+        </CLIENTE>
+        <CLIENTE>
+            <ID>14698523</ID>
+            <NOMBRE>Jesus Molina</NOMBRE>
+            <DIRECCION>CLL 2 # 4-27</DIRECCION>
+            <EMAIL>jjmolina@gmail.com</EMAIL>
+            <SALDOACTUAL>2'650,000.00</SALDOACTUAL>
+        </CLIENTE>
+    </REGISTRO>
+
+
+
